@@ -26,7 +26,7 @@ crawler:
 #   • 适用场景：避免重复信息干扰
 
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
+  mode: "current" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -64,25 +64,13 @@ weight:
 # 增加无聊的小知识
 # 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
-  - id: "wallstreetcn-hot"
-    name: "华尔街见闻"
-  - id: "thepaper"
-    name: "澎湃新闻"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
-  - id: "cls-hot"
-    name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "zhihu"
-    name: "知乎"
+- name: "东方财富期货"
+    url: "https://futures.eastmoney.com/rss/"   # 或搜索最新期货频道 RSS
+- name: "期货日报"
+    url: "https://www.qhrb.com.cn/rss/"
+- name: "财联社宏观/期货"
+    url: "https://www.cls.cn/telegraph/rss"
+- name: "我的钢铁网"
+    url: "https://www.mysteel.com/rss/"         # 铁矿、螺纹等
+  - name: "华尔街见闻宏观"
+    url: "https://wallstreetcn.com/feed"
