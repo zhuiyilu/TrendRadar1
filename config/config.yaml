@@ -64,13 +64,13 @@ weight:
 # 增加无聊的小知识
 # 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
 platforms:
-- name: "东方财富期货"
+  - name: "东方财富期货"
     url: "https://futures.eastmoney.com/rss/"   # 或搜索最新期货频道 RSS
-- name: "期货日报"
+  - name: "期货日报"
     url: "https://www.qhrb.com.cn/rss/"
-- name: "财联社宏观/期货"
+  - name: "财联社宏观/期货"
     url: "https://www.cls.cn/telegraph/rss"
-- name: "我的钢铁网"
+  - name: "我的钢铁网"
     url: "https://www.mysteel.com/rss/"         # 铁矿、螺纹等
   - name: "华尔街见闻宏观"
     url: "https://wallstreetcn.com/feed"
