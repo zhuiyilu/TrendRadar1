@@ -1,8 +1,171 @@
 {
-  "generated_at": "2026-04-11T22:25:32.513482+08:00",
+  "generated_at": "2026-04-11T22:28:30.126172+08:00",
   "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ─────────────────────────────────────────────────────────────── #                        词组定义区 # ─────────────────────────────────────────────────────────────── # 在这里写入你想关注的关键词。 # 每个词组用空行分隔，同一词组内的关键词是\"或\"的关系。 # # ┌─────────────────────────────────────────────────────────────┐ # │                      语法总览（快速参考）                      │ # └─────────────────────────────────────────────────────────────┘ # # # ┌─────────────────────────────────────────────────────────────┐ # │                      基础用法（推荐新手）                      │ # └─────────────────────────────────────────────────────────────┘ 原油 生猪 甲醇",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美伊谈判前夕，标普终结七连阳，半导体撑纳指逆市收涨，原油微跌",
+          "url": "https://wallstreetcn.com/articles/3769671",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[07时42分 ~ 22时28分]"
+        },
+        {
+          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "布伦特原油跌破92美元/桶，日内跌2.04%。",
+          "url": "https://flash.jin10.com/detail/20260411023909692800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3086058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收涨0.05%，报636.60元人民币/桶。 沪金夜盘收跌0.12%，沪银收涨1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3086057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "WTI原油期货跌1.3%，失守97美元。",
+          "url": "https://wallstreetcn.com/livenews/3086055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "应对伊朗战争油价冲击，美能源部启动第二轮SPR借贷出借848万桶原油",
+          "url": "https://wallstreetcn.com/livenews/3086089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "WTI原油跌破97美元/桶，日内跌1.04%。",
+          "url": "https://flash.jin10.com/detail/20260411022108947800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "WTI原油期货向下触及97美元/桶，日内跌0.90%。",
+          "url": "https://flash.jin10.com/detail/20260411022045793800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "麦格理：因炼厂原油获取困难，全球成品油紧缺状况恐将加剧",
+          "url": "https://wallstreetcn.com/livenews/3086015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "上海航交所：原油运价高位大涨",
+          "url": "https://flash.jin10.com/detail/20260411131513342800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持NYMEX WTI原油净多头头寸增加5,520手合约，至109,227手合约。",
+          "url": "https://wallstreetcn.com/livenews/3086066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "洲际交易所（ICE）：截至4月7日当周，布伦特原油投机者将净多头头寸减少5158手，至424270手。",
+          "url": "https://flash.jin10.com/detail/20260411015603764800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 布伦特6月原油期货收报95.20美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3086058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 可视化配置编辑器地址: https://sansan0.github.io/TrendRadar/ # # 凡是左侧有 # 的都是仅供阅读的说明性文字 # # 这个文件用来设置你想关注的新闻关键词。 # 系统会自动抓取包含这些关键词的热榜新闻推送给你。 # # 文件分为两个区域： #   [GLOBAL_FILTER]  - 全局过滤区：排除不想看的内容 #   [WORD_GROUPS]    - 词组定义区：设置想关注的关键词 # # ═══════════════════════════════════════════════════════════════",
       "match_count": 2,
