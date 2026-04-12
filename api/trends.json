@@ -1,61 +1,7 @@
 {
-  "generated_at": "2026-04-12T19:28:34.848380+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-04-12T19:37:07.689499+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "原油 生猪 甲醇",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊谈判前夕，标普终结七连阳，半导体撑纳指逆市收涨，原油微跌",
-          "url": "https://wallstreetcn.com/articles/3769671",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时29分]"
-        },
-        {
-          "title": "当市场聚焦美伊谈判，一场石油争夺战正上演，“未来几周原油缺口将十分巨大”",
-          "url": "https://wallstreetcn.com/articles/3769759",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时28分]"
-        },
-        {
-          "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
-          "url": "https://wallstreetcn.com/articles/3769756",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时42分]"
-        },
-        {
-          "title": "一周展望：美伊21小时拉锯谈判未果，美联储官员下周密集“轰炸”！原油黄金巨震在即？",
-          "url": "https://flash.jin10.com/detail/20260412103725280800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
