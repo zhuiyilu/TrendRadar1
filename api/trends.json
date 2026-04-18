@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-04-18T20:53:02.261934+08:00",
-  "total_titles_processed": 1482,
-  "failed_sources": [],
+  "generated_at": "2026-04-18T22:01:43.284042+08:00",
+  "total_titles_processed": 1549,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
