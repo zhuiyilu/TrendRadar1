@@ -1,0 +1,28 @@
+cls | 财联社
+1. 【点金互动易】CPU+模拟芯片，自研芯片已实现ARM架构CPU适配并进入量产爬坡，这家公司深度卡位安卓高端供应链，控股子公司为三星电子一级供应商，提供触控及触觉反馈核心芯片 [URL:https://www.cls.cn/detail/2357234] [MOBILE:https://api3.cls.cn/share/article/2357234?os=web&sv=8.4.6&app=CailianpressWeb]
+2. 深圳市委书记靳磊到华为、比亚迪等走访调研 [URL:https://www.cls.cn/detail/2357451] [MOBILE:https://api3.cls.cn/share/article/2357451?os=web&sv=8.4.6&app=CailianpressWeb]
+3. A股限售股解禁一览：58.24亿元市值限售股今日解禁 [URL:https://www.cls.cn/detail/2357449] [MOBILE:https://api3.cls.cn/share/article/2357449?os=web&sv=8.4.6&app=CailianpressWeb]
+4. 财联社4月28日电，日本3月失业率为2.7%，预期2.60%，前值2.60%。 [URL:https://www.cls.cn/detail/2357448] [MOBILE:https://api3.cls.cn/share/article/2357448?os=web&sv=8.4.6&app=CailianpressWeb]
+5. 一季度公募FOF规模超2800亿元 环比增逾三成 [URL:https://www.cls.cn/detail/2357444] [MOBILE:https://api3.cls.cn/share/article/2357444?os=web&sv=8.4.6&app=CailianpressWeb]
+6. 中央气象台继续发布强对流天气蓝色预警 [URL:https://www.cls.cn/detail/2357440] [MOBILE:https://api3.cls.cn/share/article/2357440?os=web&sv=8.4.6&app=CailianpressWeb]
+7. 磷酸铁锂行业掀扩产潮 瞄准高端化布局一体化 [URL:https://www.cls.cn/detail/2357435] [MOBILE:https://api3.cls.cn/share/article/2357435?os=web&sv=8.4.6&app=CailianpressWeb]
+8. 财联社4月28日电，中国地震台网正式测定：04月28日07时05分在新疆阿克苏地区库车市（北纬41.29度，东经83.92度）发生4.6级地震，震源深度23千米。 [URL:https://www.cls.cn/detail/2357432] [MOBILE:https://api3.cls.cn/share/article/2357432?os=web&sv=8.4.6&app=CailianpressWeb]
+9. 财联社4月28日电，宁德时代香港股票配售价据悉为每股628.20港元。 [URL:https://www.cls.cn/detail/2357428] [MOBILE:https://api3.cls.cn/share/article/2357428?os=web&sv=8.4.6&app=CailianpressWeb]
+10. 财联社4月28日电，英国4月BRC商店物价指数同比上升1%，前值1.20%。 [URL:https://www.cls.cn/detail/2357427] [MOBILE:https://api3.cls.cn/share/article/2357427?os=web&sv=8.4.6&app=CailianpressWeb]
+11. 【研选】随着1.6T光模块规模化放量，具备mSAP工艺量产能力与头部客户认证的厂商有望迎来订单放量与产品结构优化的双重驱动；公司依托“棒-纤-缆”全产业链优势，多项AI算力光纤光缆产品实现突破 [URL:https://www.cls.cn/detail/2356294] [MOBILE:https://api3.cls.cn/share/article/2356294?os=web&sv=8.4.6&app=CailianpressWeb]
+12. 年内逾200家港股公司回购 [URL:https://www.cls.cn/detail/2357415] [MOBILE:https://api3.cls.cn/share/article/2357415?os=web&sv=8.4.6&app=CailianpressWeb]
+13. 银行密集“上锁”基金代销 [URL:https://www.cls.cn/detail/2357420] [MOBILE:https://api3.cls.cn/share/article/2357420?os=web&sv=8.4.6&app=CailianpressWeb]
+14. 新方法能大幅提升高功率激光光强 [URL:https://www.cls.cn/detail/2357425] [MOBILE:https://api3.cls.cn/share/article/2357425?os=web&sv=8.4.6&app=CailianpressWeb]
+15. 自组织光束让3D成像速度提升25倍 [URL:https://www.cls.cn/detail/2357424] [MOBILE:https://api3.cls.cn/share/article/2357424?os=web&sv=8.4.6&app=CailianpressWeb]
+16. “自带开关”的CAR-T疗法一期临床告捷 [URL:https://www.cls.cn/detail/2357423] [MOBILE:https://api3.cls.cn/share/article/2357423?os=web&sv=8.4.6&app=CailianpressWeb]
+17. 太空金属3D打印技术在轨完成演示验证 [URL:https://www.cls.cn/detail/2357422] [MOBILE:https://api3.cls.cn/share/article/2357422?os=web&sv=8.4.6&app=CailianpressWeb]
+18. “干法转移”实现晶圆级单晶二维半导体柔性集成 [URL:https://www.cls.cn/detail/2357421] [MOBILE:https://api3.cls.cn/share/article/2357421?os=web&sv=8.4.6&app=CailianpressWeb]
+19. 二季度债市震荡运行特征将持续凸显 [URL:https://www.cls.cn/detail/2357419] [MOBILE:https://api3.cls.cn/share/article/2357419?os=web&sv=8.4.6&app=CailianpressWeb]
+20. 政策协同谋长远 增量举措值得期待 [URL:https://www.cls.cn/detail/2357418] [MOBILE:https://api3.cls.cn/share/article/2357418?os=web&sv=8.4.6&app=CailianpressWeb]
+
+==== 以下ID请求失败 ====
+eastmoney-futures
+qhrb
+mysteel
+wallstreetcn
+sunsirs
